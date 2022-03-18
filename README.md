@@ -4,7 +4,7 @@
 ![Screenshot Dashboard](./S&P.png)
 & Here it is the model used : 
 
-![Dashboard](./S&P Model.png)
+![Dashboard](./"S&P Model.png")
 
 Enjoy !
 
