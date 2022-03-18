@@ -5,6 +5,7 @@
 & Here it is the model used : 
 
 ![Dashboard](./S&P Model.png)
+
 Enjoy !
 
 Contact : othmanekoddam@outlook.fr
